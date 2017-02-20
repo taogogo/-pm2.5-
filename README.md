@@ -1,4 +1,4 @@
-# -pm2.5-
+# raspberry pi pm2.5 detecter
 高精度的树莓派pm2.5检测，使用激光pm2.5检测模块
 
 ##基础模块
